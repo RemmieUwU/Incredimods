@@ -1,2 +1,2 @@
 # Incredimods
-Incredimod is a mod-sharing website where you can discover high-quality Incredibox mods created by well-known developers. It’s designed for easy navigation, allowing you to quickly find the perfect mod for your needs. The interface is clean, simple, and visually appealing. 😉 ✨
+Incredimod is a data of all mods made in RMB (Rem's Modding Build) - is it made to display all of the new mods in new "Mod Library" tab! 😉 ✨
