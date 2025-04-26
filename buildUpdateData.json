@@ -1,7 +1,7 @@
 {
-  "id": "test-message",
+  "id": "test-message2",
   "title": "📢 New Update!",
-  "content": "test message <br><br> <img src='https://media.tenor.com/7Lqp9wn27C8AAAAM/incredible-polo-incredibox.gif'>",
+  "content": "test message222 <br><br> <img src='https://media.tenor.com/7Lqp9wn27C8AAAAM/incredible-polo-incredibox.gif'>",
   "devVersionOnly": false,
   "versionForEveryone": true
 }
