@@ -1,6 +1,6 @@
 {
     "name": "Info", 
     "icon": "#ic-info",
-    "innerHTML": "Nothing here yet! This is going to be updated to display stuff connected with mods, for example Recommended mods, some events and etc. feel free to check this tab for some changes!"
+    "innerHTML": "Nothing here yet! This is going to be updated to display stuff connected with mods,<br>for example Recommended mods, some events and etc. feel free to check this tab for some changes!"
   }
   
